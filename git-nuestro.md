@@ -1,13 +1,11 @@
-Git nuestro
-Git nuestro que estas en los repos
-Comprimidos sean tus commits
-Venga a nosotros tu log
-En el local como en el remote
-Danos hoy nuestro pull de cada día
-Perdona nuestros conflictos
-Como también perdonamos los de otros geeks
-No nos dejes caer en detached HEAD
-y líbranos de SVN
+Git our
+Git our that are in the repositories
+Compressed be your commits
+Come to us your log
+Locally and remotely
+Give us today our daily pull
+Forgive our conflicts
+As we also forgive those of other geeks.
+Don't let us fall into detached HEAD
+and free us from SVN
 git commit --amend
-
-modificacion aleatoria
